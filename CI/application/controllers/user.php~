@@ -1,0 +1,19 @@
+<?php
+/*
+Location: CI/application/controllers
+Accessed at: /CI/index.php/user
+
+*/
+class User extends CI_Controller
+{
+    
+    function index()
+    {
+            echo "hello world";
+        
+    }
+    
+}
+
+
+?>

@@ -1,0 +1,15 @@
+<?php
+
+class Registration_model extend CI_Model
+{
+    
+  function insert()
+  {
+      
+      
+      
+   }
+    
+    
+    
+}
